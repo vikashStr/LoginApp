@@ -1,0 +1,10 @@
+{
+  "name": "LoginApp",
+  "displayName": "LoginApp",
+  "expo": {
+    "name": "LoginApp",
+    "slug": "login-app",
+    "sdkVersion": "25.0.0 or corresponding version",
+    "privacy": "public"
+  }
+}
